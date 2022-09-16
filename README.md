@@ -1,2 +1,2 @@
-# js-self-made-project
-this repo have my pesonally make js projects 
+# news-webpage
+this repo has my self made project this web give latest news of the country that we will select
